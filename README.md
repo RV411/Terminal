@@ -1,5 +1,14 @@
 # Terminal
-Prueba
+
+Para compilar
+> 1. javac Person.java
+> 2. javac Operaciones.java
+> 3. javac Operaciones
+
+para usarlo escribir (El primer punto es la pocision en el arreglo y el segundo punto es el arreglo)
+> - 2
+> - 1 2 5
+
 
 ## Diagrama de Flujo
 
